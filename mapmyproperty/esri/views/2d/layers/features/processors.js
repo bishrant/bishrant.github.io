@@ -1,1 +1,0 @@
-define(["require","exports","@dojo/framework/shim/Promise"],(function(o,e){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.loadProcessorModule=void 0,e.loadProcessorModule=function(e){return new Promise("heatmap"===e?function(e,r){o(["./processors/HeatmapProcessor"],e,r)}:function(e,r){o(["./processors/SymbolProcessor"],e,r)})}}));
