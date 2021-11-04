@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[144],{txpZ:function(e,s,t){"use strict";t.r(s);var n=t("svfg");class r{_decode(e){const s=Object(n.a)(e.buffer,e.options);return Promise.resolve({result:s,transferList:[s.pixelData.buffer]})}}s.default=function(){return new r}}}]);
