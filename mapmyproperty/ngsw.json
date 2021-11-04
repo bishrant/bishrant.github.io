@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1630339157736,
+  "timestamp": 1636045339637,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -215,8 +215,8 @@
         "./2-es5.865b7eec8b509eb6a156.js",
         "./20-es2015.ed2b640e95a7704319cc.js",
         "./20-es5.ed2b640e95a7704319cc.js",
-        "./21-es2015.bfd036e6384d3de331f3.js",
-        "./21-es5.bfd036e6384d3de331f3.js",
+        "./21-es2015.8858181f4c01a50b091f.js",
+        "./21-es5.8858181f4c01a50b091f.js",
         "./22-es2015.2d02c83451cbfc6135d3.js",
         "./22-es5.2d02c83451cbfc6135d3.js",
         "./23-es2015.236d101bb29815679644.js",
@@ -388,9 +388,9 @@
         "./manifest.webmanifest",
         "./polyfills-es2015.53125e0f5905170d9ea9.js",
         "./polyfills-es5.3393c10e6edefb93d47f.js",
-        "./runtime-es2015.974950cf84aed7c27381.js",
-        "./runtime-es5.974950cf84aed7c27381.js",
-        "./styles.b0f9b9514e012a2f29a3.css"
+        "./runtime-es2015.df01b3e602698d62c509.js",
+        "./runtime-es5.df01b3e602698d62c509.js",
+        "./styles.8fbe4869e730309be114.css"
       ],
       "patterns": []
     },
@@ -422,6 +422,7 @@
         "./assets/icons/basemap/bing.jpg",
         "./assets/icons/basemap/streets.jpg",
         "./assets/icons/basemap/texas.jpg",
+        "./assets/icons/basemap/texas_infrared.png",
         "./assets/icons/basemap/topo.jpg",
         "./assets/icons/basemap/usa-topo.jpg",
         "./assets/icons/basemap/usgs.jpg",
@@ -713,8 +714,8 @@
     "./2-es5.865b7eec8b509eb6a156.js": "1437e7b00c84b4da4a96518d3874ccdf67a45b76",
     "./20-es2015.ed2b640e95a7704319cc.js": "5c458c4167bd78cba99e3c47ec9f94beb0493a33",
     "./20-es5.ed2b640e95a7704319cc.js": "5c458c4167bd78cba99e3c47ec9f94beb0493a33",
-    "./21-es2015.bfd036e6384d3de331f3.js": "8e234fe88ab68b5588ca1c4c187517ea4ad0d4e0",
-    "./21-es5.bfd036e6384d3de331f3.js": "3083353f2e64370c6a5bafc7c9034d96d3c52b95",
+    "./21-es2015.8858181f4c01a50b091f.js": "ee845a791f6aff1772f7525904506106e9fd8096",
+    "./21-es5.8858181f4c01a50b091f.js": "ac4c88cc9137178392e8af612ba59ec5a14e0648",
     "./22-es2015.2d02c83451cbfc6135d3.js": "412a23ff1ca528e617854eb78d81da978fbf8b53",
     "./22-es5.2d02c83451cbfc6135d3.js": "7a2bde4a07dd238dabfcef932760d3c8a151de56",
     "./23-es2015.236d101bb29815679644.js": "d03b8a5f840c5677770e5af2282b838f71a45ca0",
@@ -897,6 +898,7 @@
     "./assets/icons/basemap/bing.jpg": "9a83ed9c2eab5a5bbbc88cac57bfc98a0f39517a",
     "./assets/icons/basemap/streets.jpg": "38f43bf657490f59d7438237b12c99f0876154f3",
     "./assets/icons/basemap/texas.jpg": "49be58a13039d5de95719029168fbec2e634e70a",
+    "./assets/icons/basemap/texas_infrared.png": "ce99699acc46e38b84c31d9542d4df7e219ce569",
     "./assets/icons/basemap/topo.jpg": "c20d5a7e151365ac4037c91224887a0573f2301c",
     "./assets/icons/basemap/usa-topo.jpg": "9c45902e76fe9c7b8512f29483c29eedfda9e65b",
     "./assets/icons/basemap/usgs.jpg": "9e26fb6a580e62a01aa8ffdd6c57014f92cf0279",
@@ -981,15 +983,15 @@
     "./common-es2015.87c967cd1ffdb9a5ddf0.js": "af0637c81fe290421b4712b728b6bda8af01dd51",
     "./common-es5.87c967cd1ffdb9a5ddf0.js": "59b095f73dca6e7111a7d874b402ed58e53b8bd7",
     "./favicon.ico": "b6b93a92cd7550789554a6e82ec7bdaf7fe64f28",
-    "./index.html": "16cbb88351ad56339424443c94605f5a051da6dc",
+    "./index.html": "e850974e9b56d6c8b832fd3618cf6fba7fd2fbe4",
     "./main-es2015.1785645efde45f91836b.js": "aa6678ee3c84b8498e0e570d0f12bd784d984d2a",
     "./main-es5.1785645efde45f91836b.js": "5f2deb3f51fadacb381b6b02ee5d062835eb5fe6",
     "./manifest.webmanifest": "941bc7c73705e46158b3d3f3d78c4d265cc988b2",
     "./polyfills-es2015.53125e0f5905170d9ea9.js": "7395e4ab28350abfb2692f9f59c33a5910003be6",
     "./polyfills-es5.3393c10e6edefb93d47f.js": "10f9c03d22f0c0f7fe8c75f6014e84e589e4e0af",
-    "./runtime-es2015.974950cf84aed7c27381.js": "b91eed073e5f6d60d01a20011b2a22f44c499198",
-    "./runtime-es5.974950cf84aed7c27381.js": "bc5217dcf037763a8724080cd1050ed8e584ceba",
-    "./styles.b0f9b9514e012a2f29a3.css": "0cca80cc1320382c7dda197d7775100a9fbbc69a"
+    "./runtime-es2015.df01b3e602698d62c509.js": "9cf01e123aaf65596bafb903164d9eaebe5ceec4",
+    "./runtime-es5.df01b3e602698d62c509.js": "aac79b8380e563b6ea8c6f3625bccf7a1fc97e01",
+    "./styles.8fbe4869e730309be114.css": "d9fe29df27dedcf6909760811dd12f439016a19e"
   },
   "navigationUrls": [
     {
