@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639498939473,
+  "timestamp": 1642632019738,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -406,6 +406,9 @@
         "./assets/casestudy/FairchildSF.zip",
         "./assets/casestudy/PMLO_Exercise.pdf",
         "./assets/config.json",
+        "./assets/docs/EquipmentOperationsSiteCloseout.pdf",
+        "./assets/docs/ErosionControl.pdf",
+        "./assets/docs/RoadsAndLandings.pdf",
         "./assets/drawmyranch.jpg",
         "./assets/facebook.png",
         "./assets/facebook.svg",
@@ -881,6 +884,9 @@
     "./assets/casestudy/FairchildSF.zip": "30c538a5658b48a0ed50c6fd82d73822f6d498b3",
     "./assets/casestudy/PMLO_Exercise.pdf": "2ad20c1d0c675fa4464b2b40b2d1a9bdf1d72b6c",
     "./assets/config.json": "78c36f04d2fefa4126583d19d77742fdbb941a9d",
+    "./assets/docs/EquipmentOperationsSiteCloseout.pdf": "8070b574687fd5d5bcb4c363b76225fab5b1aa69",
+    "./assets/docs/ErosionControl.pdf": "04be0a2f2de8ea439eef58c2c2a2209f3942c8d1",
+    "./assets/docs/RoadsAndLandings.pdf": "935ac5b2b0b39ae4bec607e4f8fc3e17dfef2482",
     "./assets/drawmyranch.jpg": "2fd7afe039d2aca38945e85d3266ad0d43eb21da",
     "./assets/facebook.png": "82da1bae8c55b04e79fc566238ce779d19a71c03",
     "./assets/facebook.svg": "131546689dbdcc76259855e9a42fc5dbb1b87048",
@@ -981,7 +987,7 @@
     "./common-es2015.4a48c70361e801b35b05.js": "0f35bc68b9335bb931ce1de5c3722930d3e3dd8f",
     "./common-es5.4a48c70361e801b35b05.js": "dbfcb5e7907846b48f311a52f475eb34701a3a59",
     "./favicon.ico": "b6b93a92cd7550789554a6e82ec7bdaf7fe64f28",
-    "./index.html": "cdd0713359222124d029471596d4f7454e693fd4",
+    "./index.html": "b71ffcf59593248f261b10bac5f86d8c54c0ee0e",
     "./main-es2015.1785645efde45f91836b.js": "aa6678ee3c84b8498e0e570d0f12bd784d984d2a",
     "./main-es5.1785645efde45f91836b.js": "5f2deb3f51fadacb381b6b02ee5d062835eb5fe6",
     "./manifest.webmanifest": "941bc7c73705e46158b3d3f3d78c4d265cc988b2",
